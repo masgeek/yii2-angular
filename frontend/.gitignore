@@ -1,4 +1,3 @@
 # Created by .ignore support plugin (hsz.mobi)
 assets/*
-!assets/AppAsset.php
-!assets/AngularAsset.php
+!assets/*.php
