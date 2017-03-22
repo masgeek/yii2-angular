@@ -1,0 +1,19 @@
+{
+  "name": "yii2-angular",
+  "homepage": "https://github.com/fatelord/yii2-angular",
+  "authors": [
+    "Sammy B <barsamms@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "APACHE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
